@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Props
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: f21748fca4b53cf40897c5b3dde2c142, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 6502129103713456404, guid: f21748fca4b53cf40897c5b3dde2c142, type: 3}
+  - {fileID: 4556875247267356194, guid: f21748fca4b53cf40897c5b3dde2c142, type: 3}
+  - {fileID: 4730907938173302739, guid: f21748fca4b53cf40897c5b3dde2c142, type: 3}
+  - {fileID: 5595747086137543514, guid: f21748fca4b53cf40897c5b3dde2c142, type: 3}
+  - {fileID: 4802373616577951091, guid: f21748fca4b53cf40897c5b3dde2c142, type: 3}
+  - {fileID: -8887605192545522, guid: f21748fca4b53cf40897c5b3dde2c142, type: 3}
+  - {fileID: 7395559540380912389, guid: f21748fca4b53cf40897c5b3dde2c142, type: 3}
+  - {fileID: -7666812891430715680, guid: f21748fca4b53cf40897c5b3dde2c142, type: 3}
+  - {fileID: 7466427622202046938, guid: f21748fca4b53cf40897c5b3dde2c142, type: 3}
+  - {fileID: 2821378863995277538, guid: f21748fca4b53cf40897c5b3dde2c142, type: 3}
+  - {fileID: 4489838820935638777, guid: f21748fca4b53cf40897c5b3dde2c142, type: 3}
+  - {fileID: 7265313343042191254, guid: f21748fca4b53cf40897c5b3dde2c142, type: 3}
+  - {fileID: -4871644234308700824, guid: f21748fca4b53cf40897c5b3dde2c142, type: 3}
+  - {fileID: -6362549862341014049, guid: f21748fca4b53cf40897c5b3dde2c142, type: 3}
+  - {fileID: -9085773957535209297, guid: f21748fca4b53cf40897c5b3dde2c142, type: 3}
+  - {fileID: -1870876656750283219, guid: f21748fca4b53cf40897c5b3dde2c142, type: 3}
+  - {fileID: -4004860913340282569, guid: f21748fca4b53cf40897c5b3dde2c142, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Props_11
+  - Props_8
+  - Props_10
+  - Props_9
+  - Props_13
+  - Props_12
+  - Props_15
+  - Props_14
+  - Props_2
+  - Props_16
+  - Props_3
+  - Props_0
+  - Props_1
+  - Props_6
+  - Props_7
+  - Props_4
+  - Props_5
+  m_RenderDataMap: {}
+  m_Tag: Props
+  m_IsVariant: 0
