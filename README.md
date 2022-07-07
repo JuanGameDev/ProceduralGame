@@ -1,5 +1,4 @@
 # ProceduralGame
-Platform game with real time world generation.
+Juego de plataformas con generación de mundo en tiempo real.
 
-Hello everyone, this is an old project that I didn't finish due to lack of time; however the most important features are already done and functional.
-It is a 2D game with infinite world and pixelart aesthetics.
+Hola a todos, este es un viejo proyecto que no terminé por falta de tiempo, sin embargo las características más importantes ya están hechas y son funcionales. Es un juego 2D con mundo infinito y estética pixelart.
